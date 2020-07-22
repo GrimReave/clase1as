@@ -1,2 +1,2 @@
-# clase1as
-Clase1 del Curso de Analisis de Sistemas II
+#Clase del Curso de Analisis de Sistemas II
+Ejemplo para el Curso de Analisis de Sistemas II
