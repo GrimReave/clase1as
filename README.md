@@ -2,9 +2,9 @@
 Ejemplo para el Curso de Analisis de Sistemas II
 
 
-##sUBTITULO 2
+##Subtitulo 2
 
-### sUBTITULO 3
+### Subtitulo 3
 
 ####Subtitulo 4
 
